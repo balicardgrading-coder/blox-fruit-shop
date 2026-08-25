@@ -1,0 +1,978 @@
+{
+  "PERM-ROCKET": {
+    "name": "Permanent Rocket",
+    "category": "permanen",
+    "price": 5000,
+    "stock": 15,
+    "desc": "Fruit permanen Rocket.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ff6b6b?text=PERM+ROCKET"
+  },
+  "PERM-SPIN": {
+    "name": "Permanent Spin",
+    "category": "permanen",
+    "price": 5000,
+    "stock": 15,
+    "desc": "Fruit permanen Spin.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ff8787?text=PERM+SPIN"
+  },
+  "PERM-CHOP": {
+    "name": "Permanent Chop",
+    "category": "permanen",
+    "price": 6000,
+    "stock": 12,
+    "desc": "Fruit permanen Chop.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffa94d?text=PERM+CHOP"
+  },
+  "PERM-SPRING": {
+    "name": "Permanent Spring",
+    "category": "permanen",
+    "price": 6000,
+    "stock": 12,
+    "desc": "Fruit permanen Spring.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffd43b?text=PERM+SPRING"
+  },
+  "PERM-BOMB": {
+    "name": "Permanent Bomb",
+    "category": "permanen",
+    "price": 7000,
+    "stock": 12,
+    "desc": "Fruit permanen Bomb.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/fab005?text=PERM+BOMB"
+  },
+  "PERM-SMOKE": {
+    "name": "Permanent Smoke",
+    "category": "permanen",
+    "price": 7000,
+    "stock": 12,
+    "desc": "Fruit permanen Smoke.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/868e96?text=PERM+SMOKE"
+  },
+  "PERM-SPIKE": {
+    "name": "Permanent Spike",
+    "category": "permanen",
+    "price": 9000,
+    "stock": 10,
+    "desc": "Fruit permanen Spike.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/82c91e?text=PERM+SPIKE"
+  },
+  "PERM-FLAME": {
+    "name": "Permanent Flame",
+    "category": "permanen",
+    "price": 12000,
+    "stock": 10,
+    "desc": "Fruit permanen Flame.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ff6b35?text=PERM+FLAME"
+  },
+  "PERM-FALCON": {
+    "name": "Permanent Falcon",
+    "category": "permanen",
+    "price": 13000,
+    "stock": 10,
+    "desc": "Fruit permanen Falcon.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/74c0fc?text=PERM+FALCON"
+  },
+  "PERM-ICE": {
+    "name": "Permanent Ice",
+    "category": "permanen",
+    "price": 15000,
+    "stock": 10,
+    "desc": "Fruit permanen Ice.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/66d9e8?text=PERM+ICE"
+  },
+  "PERM-SAND": {
+    "name": "Permanent Sand",
+    "category": "permanen",
+    "price": 15000,
+    "stock": 10,
+    "desc": "Fruit permanen Sand.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/fcc419?text=PERM+SAND"
+  },
+  "PERM-DARK": {
+    "name": "Permanent Dark",
+    "category": "permanen",
+    "price": 18000,
+    "stock": 8,
+    "desc": "Fruit permanen Dark.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/5c5c8a?text=PERM+DARK"
+  },
+  "PERM-DIAMOND": {
+    "name": "Permanent Diamond",
+    "category": "permanen",
+    "price": 19000,
+    "stock": 8,
+    "desc": "Fruit permanen Diamond.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/a5d8ff?text=PERM+DIAMOND"
+  },
+  "PERM-LIGHT": {
+    "name": "Permanent Light",
+    "category": "permanen",
+    "price": 21000,
+    "stock": 8,
+    "desc": "Fruit permanen Light.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/fff3bf?text=PERM+LIGHT"
+  },
+  "PERM-RUBBER": {
+    "name": "Permanent Rubber",
+    "category": "permanen",
+    "price": 21000,
+    "stock": 8,
+    "desc": "Fruit permanen Rubber.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffc9c9?text=PERM+RUBBER"
+  },
+  "PERM-BARRIER": {
+    "name": "Permanent Barrier",
+    "category": "permanen",
+    "price": 23000,
+    "stock": 8,
+    "desc": "Fruit permanen Barrier.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/b197fc?text=PERM+BARRIER"
+  },
+  "PERM-GHOST": {
+    "name": "Permanent Ghost",
+    "category": "permanen",
+    "price": 24000,
+    "stock": 7,
+    "desc": "Fruit permanen Ghost.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/e599f7?text=PERM+GHOST"
+  },
+  "PERM-MAGMA": {
+    "name": "Permanent Magma",
+    "category": "permanen",
+    "price": 25000,
+    "stock": 7,
+    "desc": "Fruit permanen Magma.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ff922b?text=PERM+MAGMA"
+  },
+  "PERM-QUAKE": {
+    "name": "Permanent Quake",
+    "category": "permanen",
+    "price": 27000,
+    "stock": 6,
+    "desc": "Fruit permanen Quake.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/e67700?text=PERM+QUAKE"
+  },
+  "PERM-BUDDHA": {
+    "name": "Permanent Buddha",
+    "category": "permanen",
+    "price": 30000,
+    "stock": 6,
+    "desc": "Fruit permanen Buddha. Cocok grind.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/f4a261?text=PERM+BUDDHA"
+  },
+  "PERM-LOVE": {
+    "name": "Permanent Love",
+    "category": "permanen",
+    "price": 29000,
+    "stock": 6,
+    "desc": "Fruit permanen Love.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ff8787?text=PERM+LOVE"
+  },
+  "PERM-SPIDER": {
+    "name": "Permanent Spider",
+    "category": "permanen",
+    "price": 31000,
+    "stock": 5,
+    "desc": "Fruit permanen Spider.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/e64980?text=PERM+SPIDER"
+  },
+  "PERM-SOUND": {
+    "name": "Permanent Sound",
+    "category": "permanen",
+    "price": 33000,
+    "stock": 5,
+    "desc": "Fruit permanen Sound.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/da77f2?text=PERM+SOUND"
+  },
+  "PERM-PHOENIX": {
+    "name": "Permanent Phoenix",
+    "category": "permanen",
+    "price": 36000,
+    "stock": 5,
+    "desc": "Fruit permanen Phoenix.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ff922b?text=PERM+PHOENIX"
+  },
+  "PERM-PORTAL": {
+    "name": "Permanent Portal",
+    "category": "permanen",
+    "price": 39000,
+    "stock": 4,
+    "desc": "Fruit permanen Portal.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/845ef7?text=PERM+PORTAL"
+  },
+  "PERM-BLIZZARD": {
+    "name": "Permanent Blizzard",
+    "category": "permanen",
+    "price": 42000,
+    "stock": 4,
+    "desc": "Fruit permanen Blizzard.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/74c0fc?text=PERM+BLIZZARD"
+  },
+  "PERM-RUMBLE": {
+    "name": "Permanent Rumble",
+    "category": "permanen",
+    "price": 45000,
+    "stock": 4,
+    "desc": "Fruit permanen Rumble.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffd43b?text=PERM+RUMBLE"
+  },
+  "PERM-PAIN": {
+    "name": "Permanent Pain",
+    "category": "permanen",
+    "price": 48000,
+    "stock": 3,
+    "desc": "Fruit permanen Pain.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/f06595?text=PERM+PAIN"
+  },
+  "PERM-GRAVITY": {
+    "name": "Permanent Gravity",
+    "category": "permanen",
+    "price": 50000,
+    "stock": 3,
+    "desc": "Fruit permanen Gravity.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/9775fa?text=PERM+GRAVITY"
+  },
+  "PERM-MAMMOTH": {
+    "name": "Permanent Mammoth",
+    "category": "permanen",
+    "price": 55000,
+    "stock": 3,
+    "desc": "Fruit permanen Mammoth.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/adb5bd?text=PERM+MAMMOTH"
+  },
+  "PERM-TREX": {
+    "name": "Permanent T-Rex",
+    "category": "permanen",
+    "price": 55000,
+    "stock": 3,
+    "desc": "Fruit permanen T-Rex.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/51cf66?text=PERM+TREX"
+  },
+  "PERM-DOUGH": {
+    "name": "Permanent Dough",
+    "category": "permanen",
+    "price": 60000,
+    "stock": 3,
+    "desc": "Fruit permanen Dough.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/c77dff?text=PERM+DOUGH"
+  },
+  "PERM-SHADOW": {
+    "name": "Permanent Shadow",
+    "category": "permanen",
+    "price": 65000,
+    "stock": 2,
+    "desc": "Fruit permanen Shadow.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/495057?text=PERM+SHADOW"
+  },
+  "PERM-VENOM": {
+    "name": "Permanent Venom",
+    "category": "permanen",
+    "price": 65000,
+    "stock": 2,
+    "desc": "Fruit permanen Venom.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/7b2cbf?text=PERM+VENOM"
+  },
+  "PERM-CONTROL": {
+    "name": "Permanent Control",
+    "category": "permanen",
+    "price": 70000,
+    "stock": 2,
+    "desc": "Fruit permanen Control.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/00d2ff?text=PERM+CONTROL"
+  },
+  "PERM-GAS": {
+    "name": "Permanent Gas",
+    "category": "permanen",
+    "price": 75000,
+    "stock": 2,
+    "desc": "Fruit permanen Gas.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/94d82d?text=PERM+GAS"
+  },
+  "PERM-SPIRIT": {
+    "name": "Permanent Spirit",
+    "category": "permanen",
+    "price": 80000,
+    "stock": 2,
+    "desc": "Fruit permanen Spirit.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ff6b6b?text=PERM+SPIRIT"
+  },
+  "PERM-LEOPARD": {
+    "name": "Permanent Leopard",
+    "category": "permanen",
+    "price": 85000,
+    "stock": 2,
+    "desc": "Fruit permanen Leopard. Meta PvP.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ff6b35?text=PERM+LEO"
+  },
+  "PERM-YETI": {
+    "name": "Permanent Yeti",
+    "category": "permanen",
+    "price": 85000,
+    "stock": 1,
+    "desc": "Fruit permanen Yeti.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/a5d8ff?text=PERM+YETI"
+  },
+  "PERM-KITSUNE": {
+    "name": "Permanent Kitsune",
+    "category": "permanen",
+    "price": 95000,
+    "stock": 1,
+    "desc": "Fruit permanen Kitsune.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ff922b?text=PERM+KITSUNE"
+  },
+  "PERM-DRAGON": {
+    "name": "Permanent Dragon",
+    "category": "permanen",
+    "price": 120000,
+    "stock": 1,
+    "desc": "Fruit permanen Dragon (East/West).",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/e94560?text=PERM+DRAGON"
+  },
+  "FRUIT-ROCKET": {
+    "name": "Rocket",
+    "category": "fruit",
+    "price": 800,
+    "stock": 40,
+    "desc": "Physical fruit Rocket.",
+    "image": "https://via.placeholder.com/200x200/16213e/ff6b6b?text=ROCKET"
+  },
+  "FRUIT-SPIN": {
+    "name": "Spin",
+    "category": "fruit",
+    "price": 800,
+    "stock": 40,
+    "desc": "Physical fruit Spin.",
+    "image": "https://via.placeholder.com/200x200/16213e/ff8787?text=SPIN"
+  },
+  "FRUIT-CHOP": {
+    "name": "Chop",
+    "category": "fruit",
+    "price": 1100,
+    "stock": 35,
+    "desc": "Physical fruit Chop.",
+    "image": "https://via.placeholder.com/200x200/16213e/ffa94d?text=CHOP"
+  },
+  "FRUIT-SPRING": {
+    "name": "Spring",
+    "category": "fruit",
+    "price": 1100,
+    "stock": 35,
+    "desc": "Physical fruit Spring.",
+    "image": "https://via.placeholder.com/200x200/16213e/ffd43b?text=SPRING"
+  },
+  "FRUIT-BOMB": {
+    "name": "Bomb",
+    "category": "fruit",
+    "price": 1400,
+    "stock": 35,
+    "desc": "Physical fruit Bomb.",
+    "image": "https://via.placeholder.com/200x200/16213e/fab005?text=BOMB"
+  },
+  "FRUIT-SMOKE": {
+    "name": "Smoke",
+    "category": "fruit",
+    "price": 1400,
+    "stock": 35,
+    "desc": "Physical fruit Smoke.",
+    "image": "https://via.placeholder.com/200x200/16213e/868e96?text=SMOKE"
+  },
+  "FRUIT-SPIKE": {
+    "name": "Spike",
+    "category": "fruit",
+    "price": 1600,
+    "stock": 30,
+    "desc": "Physical fruit Spike.",
+    "image": "https://via.placeholder.com/200x200/16213e/82c91e?text=SPIKE"
+  },
+  "FRUIT-FLAME": {
+    "name": "Flame",
+    "category": "fruit",
+    "price": 2000,
+    "stock": 30,
+    "desc": "Physical fruit Flame.",
+    "image": "https://via.placeholder.com/200x200/16213e/ff6b35?text=FLAME"
+  },
+  "FRUIT-FALCON": {
+    "name": "Falcon",
+    "category": "fruit",
+    "price": 2500,
+    "stock": 28,
+    "desc": "Physical fruit Falcon.",
+    "image": "https://via.placeholder.com/200x200/16213e/74c0fc?text=FALCON"
+  },
+  "FRUIT-ICE": {
+    "name": "Ice",
+    "category": "fruit",
+    "price": 3000,
+    "stock": 28,
+    "desc": "Physical fruit Ice.",
+    "image": "https://via.placeholder.com/200x200/16213e/66d9e8?text=ICE"
+  },
+  "FRUIT-SAND": {
+    "name": "Sand",
+    "category": "fruit",
+    "price": 3000,
+    "stock": 28,
+    "desc": "Physical fruit Sand.",
+    "image": "https://via.placeholder.com/200x200/16213e/fcc419?text=SAND"
+  },
+  "FRUIT-DARK": {
+    "name": "Dark",
+    "category": "fruit",
+    "price": 3500,
+    "stock": 25,
+    "desc": "Physical fruit Dark.",
+    "image": "https://via.placeholder.com/200x200/16213e/5c5c8a?text=DARK"
+  },
+  "FRUIT-DIAMOND": {
+    "name": "Diamond",
+    "category": "fruit",
+    "price": 3500,
+    "stock": 25,
+    "desc": "Physical fruit Diamond.",
+    "image": "https://via.placeholder.com/200x200/16213e/a5d8ff?text=DIAMOND"
+  },
+  "FRUIT-LIGHT": {
+    "name": "Light",
+    "category": "fruit",
+    "price": 4000,
+    "stock": 25,
+    "desc": "Physical fruit Light.",
+    "image": "https://via.placeholder.com/200x200/16213e/fff3bf?text=LIGHT"
+  },
+  "FRUIT-RUBBER": {
+    "name": "Rubber",
+    "category": "fruit",
+    "price": 4000,
+    "stock": 25,
+    "desc": "Physical fruit Rubber.",
+    "image": "https://via.placeholder.com/200x200/16213e/ffc9c9?text=RUBBER"
+  },
+  "FRUIT-BARRIER": {
+    "name": "Barrier",
+    "category": "fruit",
+    "price": 4000,
+    "stock": 22,
+    "desc": "Physical fruit Barrier.",
+    "image": "https://via.placeholder.com/200x200/16213e/b197fc?text=BARRIER"
+  },
+  "FRUIT-GHOST": {
+    "name": "Ghost",
+    "category": "fruit",
+    "price": 4500,
+    "stock": 22,
+    "desc": "Physical fruit Ghost.",
+    "image": "https://via.placeholder.com/200x200/16213e/e599f7?text=GHOST"
+  },
+  "FRUIT-MAGMA": {
+    "name": "Magma",
+    "category": "fruit",
+    "price": 5000,
+    "stock": 20,
+    "desc": "Physical fruit Magma.",
+    "image": "https://via.placeholder.com/200x200/16213e/ff922b?text=MAGMA"
+  },
+  "FRUIT-QUAKE": {
+    "name": "Quake",
+    "category": "fruit",
+    "price": 5500,
+    "stock": 20,
+    "desc": "Physical fruit Quake.",
+    "image": "https://via.placeholder.com/200x200/16213e/e67700?text=QUAKE"
+  },
+  "FRUIT-BUDDHA": {
+    "name": "Buddha",
+    "category": "fruit",
+    "price": 6500,
+    "stock": 18,
+    "desc": "Physical fruit Buddha.",
+    "image": "https://via.placeholder.com/200x200/16213e/f4a261?text=BUDDHA"
+  },
+  "FRUIT-LOVE": {
+    "name": "Love",
+    "category": "fruit",
+    "price": 6000,
+    "stock": 18,
+    "desc": "Physical fruit Love.",
+    "image": "https://via.placeholder.com/200x200/16213e/ff8787?text=LOVE"
+  },
+  "FRUIT-SPIDER": {
+    "name": "Spider",
+    "category": "fruit",
+    "price": 7000,
+    "stock": 15,
+    "desc": "Physical fruit Spider.",
+    "image": "https://via.placeholder.com/200x200/16213e/e64980?text=SPIDER"
+  },
+  "FRUIT-SOUND": {
+    "name": "Sound",
+    "category": "fruit",
+    "price": 7500,
+    "stock": 15,
+    "desc": "Physical fruit Sound.",
+    "image": "https://via.placeholder.com/200x200/16213e/da77f2?text=SOUND"
+  },
+  "FRUIT-PHOENIX": {
+    "name": "Phoenix",
+    "category": "fruit",
+    "price": 8000,
+    "stock": 12,
+    "desc": "Physical fruit Phoenix.",
+    "image": "https://via.placeholder.com/200x200/16213e/ff922b?text=PHOENIX"
+  },
+  "FRUIT-PORTAL": {
+    "name": "Portal",
+    "category": "fruit",
+    "price": 9000,
+    "stock": 12,
+    "desc": "Physical fruit Portal.",
+    "image": "https://via.placeholder.com/200x200/16213e/845ef7?text=PORTAL"
+  },
+  "FRUIT-BLIZZARD": {
+    "name": "Blizzard",
+    "category": "fruit",
+    "price": 10000,
+    "stock": 10,
+    "desc": "Physical fruit Blizzard.",
+    "image": "https://via.placeholder.com/200x200/16213e/74c0fc?text=BLIZZARD"
+  },
+  "FRUIT-RUMBLE": {
+    "name": "Rumble",
+    "category": "fruit",
+    "price": 11000,
+    "stock": 10,
+    "desc": "Physical fruit Rumble.",
+    "image": "https://via.placeholder.com/200x200/16213e/ffd43b?text=RUMBLE"
+  },
+  "FRUIT-PAIN": {
+    "name": "Pain",
+    "category": "fruit",
+    "price": 12000,
+    "stock": 8,
+    "desc": "Physical fruit Pain.",
+    "image": "https://via.placeholder.com/200x200/16213e/f06595?text=PAIN"
+  },
+  "FRUIT-GRAVITY": {
+    "name": "Gravity",
+    "category": "fruit",
+    "price": 13000,
+    "stock": 8,
+    "desc": "Physical fruit Gravity.",
+    "image": "https://via.placeholder.com/200x200/16213e/9775fa?text=GRAVITY"
+  },
+  "FRUIT-MAMMOTH": {
+    "name": "Mammoth",
+    "category": "fruit",
+    "price": 14000,
+    "stock": 6,
+    "desc": "Physical fruit Mammoth.",
+    "image": "https://via.placeholder.com/200x200/16213e/adb5bd?text=MAMMOTH"
+  },
+  "FRUIT-TREX": {
+    "name": "T-Rex",
+    "category": "fruit",
+    "price": 15000,
+    "stock": 6,
+    "desc": "Physical fruit T-Rex.",
+    "image": "https://via.placeholder.com/200x200/16213e/51cf66?text=TREX"
+  },
+  "FRUIT-DOUGH": {
+    "name": "Dough",
+    "category": "fruit",
+    "price": 16000,
+    "stock": 5,
+    "desc": "Physical fruit Dough.",
+    "image": "https://via.placeholder.com/200x200/16213e/c77dff?text=DOUGH"
+  },
+  "FRUIT-SHADOW": {
+    "name": "Shadow",
+    "category": "fruit",
+    "price": 18000,
+    "stock": 5,
+    "desc": "Physical fruit Shadow.",
+    "image": "https://via.placeholder.com/200x200/16213e/495057?text=SHADOW"
+  },
+  "FRUIT-VENOM": {
+    "name": "Venom",
+    "category": "fruit",
+    "price": 19000,
+    "stock": 4,
+    "desc": "Physical fruit Venom.",
+    "image": "https://via.placeholder.com/200x200/16213e/7b2cbf?text=VENOM"
+  },
+  "FRUIT-CONTROL": {
+    "name": "Control",
+    "category": "fruit",
+    "price": 21000,
+    "stock": 4,
+    "desc": "Physical fruit Control.",
+    "image": "https://via.placeholder.com/200x200/16213e/00d2ff?text=CONTROL"
+  },
+  "FRUIT-GAS": {
+    "name": "Gas",
+    "category": "fruit",
+    "price": 22000,
+    "stock": 3,
+    "desc": "Physical fruit Gas.",
+    "image": "https://via.placeholder.com/200x200/16213e/94d82d?text=GAS"
+  },
+  "FRUIT-SPIRIT": {
+    "name": "Spirit",
+    "category": "fruit",
+    "price": 23000,
+    "stock": 3,
+    "desc": "Physical fruit Spirit.",
+    "image": "https://via.placeholder.com/200x200/16213e/ff6b6b?text=SPIRIT"
+  },
+  "FRUIT-LEOPARD": {
+    "name": "Leopard",
+    "category": "fruit",
+    "price": 25000,
+    "stock": 3,
+    "desc": "Physical fruit Leopard.",
+    "image": "https://via.placeholder.com/200x200/16213e/ff6b35?text=LEOPARD"
+  },
+  "FRUIT-YETI": {
+    "name": "Yeti",
+    "category": "fruit",
+    "price": 26000,
+    "stock": 2,
+    "desc": "Physical fruit Yeti.",
+    "image": "https://via.placeholder.com/200x200/16213e/a5d8ff?text=YETI"
+  },
+  "FRUIT-KITSUNE": {
+    "name": "Kitsune",
+    "category": "fruit",
+    "price": 30000,
+    "stock": 2,
+    "desc": "Physical fruit Kitsune.",
+    "image": "https://via.placeholder.com/200x200/16213e/ff922b?text=KITSUNE"
+  },
+  "FRUIT-DRAGON": {
+    "name": "Dragon",
+    "category": "fruit",
+    "price": 38000,
+    "stock": 1,
+    "desc": "Physical fruit Dragon.",
+    "image": "https://via.placeholder.com/200x200/16213e/e94560?text=DRAGON"
+  },
+  "JOKI-LVL-1": {
+    "name": "Joki Level 1 → 700",
+    "category": "joki",
+    "price": 5500,
+    "stock": 30,
+    "desc": "Naik level sampai 700 (Sea 1-ish).",
+    "image": "https://via.placeholder.com/200x200/0f3460/e94560?text=LVL+700"
+  },
+  "JOKI-LVL-2": {
+    "name": "Joki Level 1 → 1500",
+    "category": "joki",
+    "price": 10000,
+    "stock": 25,
+    "desc": "Naik level sampai 1500.",
+    "image": "https://via.placeholder.com/200x200/0f3460/e94560?text=LVL+1500"
+  },
+  "JOKI-LVL-3": {
+    "name": "Joki Level 1 → 2550 (Max)",
+    "category": "joki",
+    "price": 15000,
+    "stock": 20,
+    "desc": "Full level max 2550.",
+    "image": "https://via.placeholder.com/200x200/0f3460/e94560?text=LVL+MAX"
+  },
+  "JOKI-MASTERY-1": {
+    "name": "Joki Mastery Fruit 1–300",
+    "category": "joki",
+    "price": 6500,
+    "stock": 25,
+    "desc": "Naik mastery 1 fruit sampai 300.",
+    "image": "https://via.placeholder.com/200x200/0f3460/c77dff?text=MASTERY"
+  },
+  "JOKI-MASTERY-2": {
+    "name": "Joki Mastery Fruit Full (600)",
+    "category": "joki",
+    "price": 12000,
+    "stock": 20,
+    "desc": "Mastery 1 fruit sampai full 600.",
+    "image": "https://via.placeholder.com/200x200/0f3460/c77dff?text=MASTERY+MAX"
+  },
+  "JOKI-MASTERY-GUN": {
+    "name": "Joki Mastery Gun Full",
+    "category": "joki",
+    "price": 10000,
+    "stock": 20,
+    "desc": "Mastery gun / fighting style sampai max.",
+    "image": "https://via.placeholder.com/200x200/0f3460/ffd700?text=GUN+MASTERY"
+  },
+  "JOKI-MASTERY-SWORD": {
+    "name": "Joki Mastery Sword Full",
+    "category": "joki",
+    "price": 10000,
+    "stock": 20,
+    "desc": "Mastery sword sampai max.",
+    "image": "https://via.placeholder.com/200x200/0f3460/94d82d?text=SWORD"
+  },
+  "JOKI-MONEY-1": {
+    "name": "Joki Money 10Jt",
+    "category": "joki",
+    "price": 4500,
+    "stock": 40,
+    "desc": "Farm money ±10.000.000 beli.",
+    "image": "https://via.placeholder.com/200x200/0f3460/51cf66?text=MONEY+10JT"
+  },
+  "JOKI-MONEY-2": {
+    "name": "Joki Money 50Jt",
+    "category": "joki",
+    "price": 11000,
+    "stock": 30,
+    "desc": "Farm money ±50.000.000 beli.",
+    "image": "https://via.placeholder.com/200x200/0f3460/51cf66?text=MONEY+50JT"
+  },
+  "JOKI-MONEY-3": {
+    "name": "Joki Money 100Jt",
+    "category": "joki",
+    "price": 19000,
+    "stock": 20,
+    "desc": "Farm money ±100.000.000 beli.",
+    "image": "https://via.placeholder.com/200x200/0f3460/51cf66?text=MONEY+100JT"
+  },
+  "JOKI-FRAG-1": {
+    "name": "Joki Fragment 5.000",
+    "category": "joki",
+    "price": 5500,
+    "stock": 25,
+    "desc": "Farm fragment ±5.000.",
+    "image": "https://via.placeholder.com/200x200/0f3460/74c0fc?text=FRAG+5K"
+  },
+  "JOKI-FRAG-2": {
+    "name": "Joki Fragment 15.000",
+    "category": "joki",
+    "price": 14000,
+    "stock": 15,
+    "desc": "Farm fragment ±15.000 (cocok awaken).",
+    "image": "https://via.placeholder.com/200x200/0f3460/74c0fc?text=FRAG+15K"
+  },
+  "JOKI-RACE-V2": {
+    "name": "Joki Race V2",
+    "category": "joki",
+    "price": 8000,
+    "stock": 20,
+    "desc": "Upgrade race ke V2 (semua race).",
+    "image": "https://via.placeholder.com/200x200/0f3460/ff922b?text=RACE+V2"
+  },
+  "JOKI-RACE-V3": {
+    "name": "Joki Race V3",
+    "category": "joki",
+    "price": 14000,
+    "stock": 15,
+    "desc": "Upgrade race ke V3 + train.",
+    "image": "https://via.placeholder.com/200x200/0f3460/ff922b?text=RACE+V3"
+  },
+  "JOKI-RACE-V4": {
+    "name": "Joki Race V4 (Full Trial)",
+    "category": "joki",
+    "price": 30000,
+    "stock": 10,
+    "desc": "Full Race V4 termasuk trial & gear.",
+    "image": "https://via.placeholder.com/200x200/0f3460/ffd700?text=RACE+V4"
+  },
+  "JOKI-RACE-CHANGE": {
+    "name": "Joki Ganti Race",
+    "category": "joki",
+    "price": 4500,
+    "stock": 30,
+    "desc": "Ganti race (Human/Fishman/Skypiea/dll).",
+    "image": "https://via.placeholder.com/200x200/0f3460/ffa94d?text=GANTI+RACE"
+  },
+  "JOKI-GUN-1": {
+    "name": "Joki Unlock Gun / Style",
+    "category": "joki",
+    "price": 6500,
+    "stock": 20,
+    "desc": "Buka gun / fighting style tertentu.",
+    "image": "https://via.placeholder.com/200x200/0f3460/ffd700?text=UNLOCK+GUN"
+  },
+  "JOKI-GUN-2": {
+    "name": "Joki Sanguine Art",
+    "category": "joki",
+    "price": 25000,
+    "stock": 8,
+    "desc": "Unlock + progress Sanguine Art.",
+    "image": "https://via.placeholder.com/200x200/0f3460/e94560?text=SANGUINE"
+  },
+  "JOKI-GUN-3": {
+    "name": "Joki Godhuman",
+    "category": "joki",
+    "price": 22000,
+    "stock": 10,
+    "desc": "Unlock Godhuman fighting style.",
+    "image": "https://via.placeholder.com/200x200/0f3460/fab005?text=GODHUMAN"
+  },
+  "JOKI-GUN-4": {
+    "name": "Joki Sharkman Karate",
+    "category": "joki",
+    "price": 16000,
+    "stock": 12,
+    "desc": "Unlock Sharkman Karate.",
+    "image": "https://via.placeholder.com/200x200/0f3460/339af0?text=SHARKMAN"
+  },
+  "JOKI-GUN-5": {
+    "name": "Joki Death Step / Electric Claw / Dragon Talon",
+    "category": "joki",
+    "price": 15000,
+    "stock": 12,
+    "desc": "Pilih 1: Death Step / Electric Claw / Dragon Talon.",
+    "image": "https://via.placeholder.com/200x200/0f3460/ff6b6b?text=FIGHTING"
+  },
+  "JOKI-SEA": {
+    "name": "Joki Sea 1 → Sea 3",
+    "category": "joki",
+    "price": 19000,
+    "stock": 15,
+    "desc": "Full progress sampai Third Sea + quest penting.",
+    "image": "https://via.placeholder.com/200x200/0f3460/00d2ff?text=SEA+1-3"
+  },
+  "JOKI-AWAKEN": {
+    "name": "Joki Awaken Fruit (1 Fruit)",
+    "category": "joki",
+    "price": 22000,
+    "stock": 12,
+    "desc": "Full awaken 1 fruit + bantu material/fragment.",
+    "image": "https://via.placeholder.com/200x200/0f3460/c77dff?text=AWAKEN"
+  },
+  "JOKI-BOSS": {
+    "name": "Joki Boss / Material Harian",
+    "category": "joki",
+    "price": 6500,
+    "stock": 30,
+    "desc": "Farm boss & material sesuai request.",
+    "image": "https://via.placeholder.com/200x200/0f3460/22c55e?text=BOSS"
+  },
+  "JOKI-RAID": {
+    "name": "Joki Raid / Dungeon",
+    "category": "joki",
+    "price": 8000,
+    "stock": 20,
+    "desc": "Clear raid / dungeon (awaken chips dll).",
+    "image": "https://via.placeholder.com/200x200/0f3460/845ef7?text=RAID"
+  },
+  "JOKI-QUEST": {
+    "name": "Joki Quest / Title",
+    "category": "joki",
+    "price": 5500,
+    "stock": 25,
+    "desc": "Selesaikan quest / title tertentu.",
+    "image": "https://via.placeholder.com/200x200/0f3460/868e96?text=QUEST"
+  },
+  "JOKI-FULL": {
+    "name": "Joki Full Build Akun",
+    "category": "joki",
+    "price": 50000,
+    "stock": 8,
+    "desc": "Level max + fruit + race V4 + style + quest penting.",
+    "image": "https://via.placeholder.com/200x200/0f3460/e94560?text=FULL+BUILD"
+  },
+  "PERM-BLADE": {
+    "name": "Permanent Blade",
+    "category": "permanen",
+    "price": 12000,
+    "stock": 10,
+    "desc": "Fruit permanen Blade.",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/adb5bd?text=PERM+BLADE"
+  },
+  "FRUIT-BLADE": {
+    "name": "Blade",
+    "category": "fruit",
+    "price": 2500,
+    "stock": 30,
+    "desc": "Physical fruit Blade.",
+    "image": "https://via.placeholder.com/200x200/16213e/adb5bd?text=BLADE"
+  },
+  "PERM-CREATION": {
+    "name": "Permanent Creation",
+    "category": "permanen",
+    "price": 150000,
+    "stock": 1,
+    "desc": "Fruit permanen Creation (jika tersedia di server).",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffd43b?text=PERM+CREATION"
+  },
+  "FRUIT-CREATION": {
+    "name": "Creation",
+    "category": "fruit",
+    "price": 50000,
+    "stock": 2,
+    "desc": "Physical fruit Creation.",
+    "image": "https://via.placeholder.com/200x200/16213e/ffd43b?text=CREATION"
+  },
+  "PAKET-001": {
+    "name": "Paket Starter (Buddha Perm + Joki Lvl 1500)",
+    "category": "joki",
+    "price": 35000,
+    "stock": 10,
+    "desc": "Permanent Buddha + joki level sampai 1500.",
+    "image": "https://via.placeholder.com/200x200/0f3460/f4a261?text=PAKET+START"
+  },
+  "PAKET-002": {
+    "name": "Paket PvP (Leopard Perm + Godhuman)",
+    "category": "joki",
+    "price": 90000,
+    "stock": 5,
+    "desc": "Permanent Leopard + unlock Godhuman.",
+    "image": "https://via.placeholder.com/200x200/0f3460/ff6b35?text=PAKET+PVP"
+  },
+  "PAKET-003": {
+    "name": "Paket Endgame (Dragon Perm + Race V4 + Sanguine)",
+    "category": "joki",
+    "price": 150000,
+    "stock": 3,
+    "desc": "Permanent Dragon + Race V4 + Sanguine Art.",
+    "image": "https://via.placeholder.com/200x200/0f3460/e94560?text=PAKET+END"
+  },
+  "JOKI-BELI": {
+    "name": "Joki Beli Item / Gamepass In-Game",
+    "category": "joki",
+    "price": 5000,
+    "stock": 50,
+    "desc": "Bantu beli item/gamepass pakai money akun (fee jasa).",
+    "image": "https://via.placeholder.com/200x200/0f3460/51cf66?text=JOKI+BELI"
+  },
+  "JOKI-CDN": {
+    "name": "Joki Cursed Dual Katana (CDK)",
+    "category": "joki",
+    "price": 35000,
+    "stock": 8,
+    "desc": "Progress / bantu dapat CDK.",
+    "image": "https://via.placeholder.com/200x200/0f3460/ff6b6b?text=CDK"
+  },
+  "JOKI-HALLOW": {
+    "name": "Joki Hallow Scythe / Tushita / Yama",
+    "category": "joki",
+    "price": 25000,
+    "stock": 10,
+    "desc": "Bantu quest sword legendaris (pilih 1).",
+    "image": "https://via.placeholder.com/200x200/0f3460/fab005?text=SWORD+LEGEND"
+  },
+  "JOKI-SOUL": {
+    "name": "Joki Soul Guitar",
+    "category": "joki",
+    "price": 30000,
+    "stock": 8,
+    "desc": "Progress Soul Guitar.",
+    "image": "https://via.placeholder.com/200x200/0f3460/da77f2?text=SOUL+GUITAR"
+  },
+  "JOKI-MIRROR": {
+    "name": "Joki Mirror Fractal / Material Rare",
+    "category": "joki",
+    "price": 20000,
+    "stock": 12,
+    "desc": "Farm material rare / mirror fractal.",
+    "image": "https://via.placeholder.com/200x200/0f3460/66d9e8?text=MATERIAL"
+  },
+  "JOKI-PRESTIGE": {
+    "name": "Joki Prestige / Reset Stats",
+    "category": "joki",
+    "price": 8000,
+    "stock": 20,
+    "desc": "Bantu prestige / atur stats build.",
+    "image": "https://via.placeholder.com/200x200/0f3460/868e96?text=PRESTIGE"
+  }
+}
